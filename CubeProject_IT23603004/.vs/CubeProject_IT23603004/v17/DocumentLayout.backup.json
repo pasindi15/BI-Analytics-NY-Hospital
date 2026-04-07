@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Year 3\\Y3 S1\\DWBI - IT3021\\dataset\\Assignment 2\\CubeProject_IT23603004\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A1A6EF-895B-19BA-B745-C831B9EE0E66}|CubeProject_IT23603004\\CubeProject_IT23603004.dwproj|E:\\Year 3\\Y3 S1\\DWBI - IT3021\\dataset\\Assignment 2\\CubeProject_IT23603004\\CubeProject_IT23603004\\NY Hospital DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D6A1A6EF-895B-19BA-B745-C831B9EE0E66}|CubeProject_IT23603004\\CubeProject_IT23603004.dwproj|solutionrelative:CubeProject_IT23603004\\NY Hospital DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A1A6EF-895B-19BA-B745-C831B9EE0E66}|CubeProject_IT23603004\\CubeProject_IT23603004.dwproj|E:\\Year 3\\Y3 S1\\DWBI - IT3021\\dataset\\Assignment 2\\CubeProject_IT23603004\\CubeProject_IT23603004\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D6A1A6EF-895B-19BA-B745-C831B9EE0E66}|CubeProject_IT23603004\\CubeProject_IT23603004.dwproj|solutionrelative:CubeProject_IT23603004\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "E:\\Year 3\\Y3 S1\\DWBI - IT3021\\dataset\\Assignment 2\\CubeProject_IT23603004\\CubeProject_IT23603004\\Dim Date.dim",
+              "RelativeDocumentMoniker": "CubeProject_IT23603004\\Dim Date.dim",
+              "ToolTip": "E:\\Year 3\\Y3 S1\\DWBI - IT3021\\dataset\\Assignment 2\\CubeProject_IT23603004\\CubeProject_IT23603004\\Dim Date.dim [Design]",
+              "RelativeToolTip": "CubeProject_IT23603004\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T17:41:36.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NY Hospital DW.cube [Design]",
+              "DocumentMoniker": "E:\\Year 3\\Y3 S1\\DWBI - IT3021\\dataset\\Assignment 2\\CubeProject_IT23603004\\CubeProject_IT23603004\\NY Hospital DW.cube",
+              "RelativeDocumentMoniker": "CubeProject_IT23603004\\NY Hospital DW.cube",
+              "ToolTip": "E:\\Year 3\\Y3 S1\\DWBI - IT3021\\dataset\\Assignment 2\\CubeProject_IT23603004\\CubeProject_IT23603004\\NY Hospital DW.cube [Design]",
+              "RelativeToolTip": "CubeProject_IT23603004\\NY Hospital DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T17:26:48.838Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
